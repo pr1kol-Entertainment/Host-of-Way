@@ -1,5 +1,4 @@
-# Oblivion of the Galaxy
-
+# Host of Way
 [![Twitch](https://img.shields.io/website?color=blueviolet&label=pr1kol&logo=twitch&up_message=Twitch&url=https%3A%2F%2Ftwitch.tv%2Fpr1koltv)](https://twitch.tv/pr1koltv) [![Discord](https://img.shields.io/website?color=7289da&label=pr1kol&logo=discord&up_message=Discord&url=https%3A%2F%2Ftwitch.tv%2Fpr1koltv)](https://discord.gg/saMKPr8)
 
 ## Introduction
