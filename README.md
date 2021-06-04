@@ -3,14 +3,10 @@
 
 ## Introduction
 
-This is a large-scale Modpack with many techniques and mods that are intertwined!
+This is a global Modpack, with a lot of innovations and amendments to both the mods themselves and the game!
 
-In this modpack, you can engage in technology, roam the deep forests and fight various monsters!
-Because there are such famous mods as Botania, Mekanism, Immersive Engineering and others.
+This modpack will not let you get bored. In it, you can develop as you please, absolutely in any direction. Since there are many mods for any of your whims.
+Do you want to do technology? Please start exploring mods such as Mekanism, Immersive and others. Want to travel and fight monsters? Go to Twilight or Hunting dimensions.
 
-To complete this modpack, you must complete the entire tab with the Oblivion of the Galaxy advancements.
-And I can say that it will take you a long time to do this, because there are a lot of achievements in this modpack and almost all craftes is complicated.
-
-## Downloads
-
-//[![Curse](https://img.shields.io/website?color=orange&label=Oblivion%20of%20the%20Galaxy&logo=curseforge&up_message=CurseForge&url=https%3A%2F%2Fgithub.com%2Fpr1kol%2FOblivion-of-the-Galaxy%2Fissues)](https://curseforge.com/minecraft/modpacks/oblivion-of-the-galaxy)
+And most importantly, there are not simple recipes, in this modpack a lot of recipes have been changed so that the player does not play with only one mod, but learns all of them. And also you to get pleasant sensations when you make one recipe for a very long time, and spend a lot of resources on it, and in the end you craft it.
+In this Modpack there are many cool achievements, after completing which, we can say that you have passed this Modpack.
